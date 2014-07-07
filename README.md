@@ -1,4 +1,4 @@
-cranky-pants
+granky-pants
 ============
 
 Project Euler
